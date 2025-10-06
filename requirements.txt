@@ -1,0 +1,9 @@
+jupyter
+notebook
+pandas
+numpy
+scipy
+seaborn
+scikit-learn
+graphviz
+dtreeviz
